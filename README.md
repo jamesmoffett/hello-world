@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Sample
+This is another sample
